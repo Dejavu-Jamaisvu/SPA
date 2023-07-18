@@ -7,7 +7,7 @@ int main() {
     const char* machine_id = "d9afb880-9a1a-103d-8002-1a506ad6292a";
     const char* source_ip = "192.168.0.100";
     const char* server_ip = "0.0.0.0";
-    int server_port = 123;
+    int server_port = 1234;
 
     // Create a packet and fill its fields
     struct Packet packet;
